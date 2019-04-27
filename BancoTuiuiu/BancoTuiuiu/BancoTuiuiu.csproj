@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entidades\SaldoInsuficiente.cs" />
     <Compile Include="frmDeposito.cs">
       <SubType>Form</SubType>
     </Compile>
